@@ -22,8 +22,6 @@
   
   <br>
   
-  <hr>
-  
   ## Fala comigo:
   
  <div>
