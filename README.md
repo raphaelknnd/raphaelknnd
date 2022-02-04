@@ -2,7 +2,8 @@
 
 🔭 Atualmente sou estagiário de TI na SPE Piauí Conectado<br>
 🌱 Estudando Desenvolvimento Web (HTML, CSS e Javascript)<br>
-⚡ Fun fact: I'm Spiderman
+⚡ Fun fact: I'm Spiderman<b
+🔐 Um entusiasta de Cybersecurity<br>
 
 <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="55px">
