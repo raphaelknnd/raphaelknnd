@@ -1,6 +1,6 @@
 ## Hi, people! 🖖🤓
 
-🔭 Atualmente sou estagiário de TI na SPE Piauí Conectado<br>
+🔭 Atualmente sou instrutor de robótica<br>
 🌱 Estudando Desenvolvimento Web (HTML, CSS e Javascript)<br>
 ⚡ Fun fact: I'm Spiderman<br>
 🔐 Um entusiasta de Cybersecurity
