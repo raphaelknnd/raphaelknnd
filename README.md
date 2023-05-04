@@ -6,7 +6,6 @@
 🔐 Um entusiasta de Cybersecurity
 
 <div>
-    <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="55px">-->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50px">
@@ -17,11 +16,11 @@
   
   <br>
   
-<div align="left">
+<!--<div align="left">
   <a href="https://github.com/raphaelknnd">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelknnd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelknnd&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div>-->
   
   <br>
   
