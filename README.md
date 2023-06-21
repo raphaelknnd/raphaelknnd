@@ -1,6 +1,6 @@
 ## Hi, people! 🖖🤓
 
-🔭 Atualmente sou instrutor de robótica<br>
+🔭 Atualmente sou Aprendiz Tech de Segurança da Informação (Blue Team 🔵)<br>
 🌱 Estudando Desenvolvimento Web (HTML, CSS e Javascript)<br>
 ⚡ Fun fact: I'm Spiderman<br>
 🔐 Um entusiasta de Cybersecurity
