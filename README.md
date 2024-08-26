@@ -1,7 +1,7 @@
 ## Hi, people! 🖖🤓
 
 🔭 Atualmente sou Aprendiz Tech de Segurança da Informação (Blue Team 🔵)<br>
-🌱 Estudando Ruby<br>
+🌱 Estudando Javascript<br>
 ⚡ Fun fact: I'm Spiderman<br>
 🔐 Um entusiasta de Cybersecurity
 
